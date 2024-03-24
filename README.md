@@ -1,1 +1,54 @@
 # PFA
+" MKM_Ecommerce "
+
+  https://github.com/khalilbouadil/PFA
+
+Projet en cours de réalisation par :
+
+BOUADIL_KHALIL_GROUPEA
+MOHAMMED_BENNANI_GROUPEC
+MOUAD_BENHAJ_GROUPEC
+
+Fonctionnalités proposé
+
+Fonctionnalités 1 ( User Story 1 )
+Fonctionnalités 2 ( User Story 2 )
+Fonctionnalités 3 ( User Story 3 )
+Fonctionnalités 4 ( User Story 4 )
+Fonctionnalités 5 ( User Story 5 )
+Fonctionnalités 6 ( User Story 6 )
+Fonctionnalités 7 ( User Story 7 )
+
+Technologies
+
+Node.js
+Visual Studio Code
+ReactJS
+Express JS
+Socket.io
+MongoDb
+TailWind
+
+Installation et Execution de l'application web:
+
+Node.js est requis pour pouvoir exécuter cette application. C'est le back end de l'app. Pour installer tous les modules nécessaires au fonctionnement de notre jeu, exécutez la commande suivante :
+
+npm install
+Puis pour lancer l'applica(ion coté back lancez la commande :
+
+npm start
+Par la suite passez sur le port 3000 sur le Browser.
+
+ReactJS est requis pour pouvoir exécuter cette application. C'est le front end de l'app. Pour installer tous les modules nécessaires au fonctionnement de notre jeu, exécutez la commande suivante :
+
+npm install
+Puis pour lancer l'applica(ion coté front lancez la commande :
+
+npm start
+Par la suite passez sur le port 3001 sur le Browser.
+
+Date de sortie du JEU
+
+NOM_APPLICATION sera disponible le 1er Septembre 2024 , Tenez vous prêt !
+
+La version finale est prête , le lien de l'app : url-app-une-fois-quelle-sera-deployé
