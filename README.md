@@ -35,26 +35,47 @@ Technologies
 
 
 Installation et Execution de l'application web:
+
+
 Pour exécuter cette application web, assurez-vous d'avoir Python et Flask installés sur votre machine.
 
 1. Installation des dépendances
+
+
 Tout d'abord, clonez ce dépôt GitHub sur votre machine locale en utilisant la commande suivante :
 
+
 git clone https://github.com/khalilbouadil/PFA.git
+
+
 Ensuite, accédez au répertoire du projet :
 
+
+
 cd PFA
+
+
 Installez les dépendances Python requises en exécutant la commande suivante :
+
+
 
 pip install -r requirements.txt
 
+
 2. Exécution de l'application
+
+
 Pour lancer l'application, exécutez le script Python suivant :
 
 python app.py
+
+
 Assurez-vous que l'application démarre correctement sans erreurs.
 
+
 3. Accès à l'application
+
+
 Une fois l'application lancée, ouvrez un navigateur web et accédez à l'URL suivante :
 
 http://localhost:5000
