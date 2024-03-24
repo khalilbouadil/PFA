@@ -11,23 +11,27 @@ MOUAD_BENHAJ_GROUPEC
 
 Fonctionnalités proposé
 
-Fonctionnalités 1 ( User Story 1 )
-Fonctionnalités 2 ( User Story 2 )
-Fonctionnalités 3 ( User Story 3 )
-Fonctionnalités 4 ( User Story 4 )
-Fonctionnalités 5 ( User Story 5 )
-Fonctionnalités 6 ( User Story 6 )
-Fonctionnalités 7 ( User Story 7 )
-
+* Fonctionnalités 1 ( en tant qu'utilisateur j'ai acces à mon panier )
+* Fonctionnalités 2 ( En tant qu'utilisateur  je peux gérer les options de paiement )
+* Fonctionnalités 3 ( En tant qu'utilisateur  je peux s'identifier  )
+* Fonctionnalités 4 ( En tant qu'utilisateur  je peux comparer les produits )
+* Fonctionnalités 5 ( En tant qu'utilisateur  je peux recevoir des recommandations personnalisées )
+* Fonctionnalités 6 ( En tant qu'utilisateur  je peux  profiter de la garantie et du service après-vente)
+* Fonctionnalités 7 ( En tant qu'utilisateur  je peux consulter les guides d'achat et les conseils )
+* Fonctionnalités 8 ( En tant qu'utilisateur je peux laisser des avis et des commentaires sur les produits )
+* Fonctionnalités 9 ( En tant qu'utilisateur  je peux  suivre l'état de mes commandes )
+* Fonctionnalités 10 ( En tant qu'utilisateur  je peux rechercher des produits )
+* Fonctionnalités 11 (  En tant que utilisateur je peux ajouter des produits au panier )
 Technologies
 
-Node.js
-Visual Studio Code
-ReactJS
-Express JS
-Socket.io
-MongoDb
-TailWind
+* Node.js
+* Visual Studio Code
+* Html
+* Css
+* Flask
+* Python
+  
+
 
 Installation et Execution de l'application web:
 
