@@ -22,6 +22,7 @@ Fonctionnalités proposé
 * Fonctionnalités 9 ( En tant qu'utilisateur  je peux  suivre l'état de mes commandes )
 * Fonctionnalités 10 ( En tant qu'utilisateur  je peux rechercher des produits )
 * Fonctionnalités 11 (  En tant que utilisateur je peux ajouter des produits au panier )
+* 
 Technologies
 
 * Node.js
