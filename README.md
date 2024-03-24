@@ -35,25 +35,27 @@ Technologies
 
 
 Installation et Execution de l'application web:
+Pour exécuter cette application web, assurez-vous d'avoir Python et Flask installés sur votre machine.
 
-Node.js est requis pour pouvoir exécuter cette application. C'est le back end de l'app. Pour installer tous les modules nécessaires au fonctionnement de notre jeu, exécutez la commande suivante :
+1. Installation des dépendances
+Tout d'abord, clonez ce dépôt GitHub sur votre machine locale en utilisant la commande suivante :
 
-npm install
-Puis pour lancer l'applica(ion coté back lancez la commande :
+git clone https://github.com/khalilbouadil/PFA.git
+Ensuite, accédez au répertoire du projet :
 
-npm start
-Par la suite passez sur le port 3000 sur le Browser.
+cd PFA
+Installez les dépendances Python requises en exécutant la commande suivante :
 
-ReactJS est requis pour pouvoir exécuter cette application. C'est le front end de l'app. Pour installer tous les modules nécessaires au fonctionnement de notre jeu, exécutez la commande suivante :
+pip install -r requirements.txt
 
-npm install
-Puis pour lancer l'applica(ion coté front lancez la commande :
+2. Exécution de l'application
+Pour lancer l'application, exécutez le script Python suivant :
 
-npm start
-Par la suite passez sur le port 3001 sur le Browser.
+python app.py
+Assurez-vous que l'application démarre correctement sans erreurs.
 
-Date de sortie du JEU
+3. Accès à l'application
+Une fois l'application lancée, ouvrez un navigateur web et accédez à l'URL suivante :
 
-NOM_APPLICATION sera disponible le 1er Septembre 2024 , Tenez vous prêt !
-
-La version finale est prête , le lien de l'app : url-app-une-fois-quelle-sera-deployé
+http://localhost:5000
+Vous devriez maintenant pouvoir accéder à l'application web et commencer à explorer ses fonctionnalités.
